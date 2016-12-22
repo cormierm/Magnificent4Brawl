@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/dev/MTMCFinalAssignment/MTMCFinalAssignment/MTMCFinalAssignment/Content/Fonts/hilightFont.spritefont</File>
+    <File>C:/dev/MTMCFinalAssignment/MTMCFinalAssignment/MTMCFinalAssignment/Content/Fonts/regularFont.spritefont</File>
+    <File>C:/dev/MTMCFinalAssignment/MTMCFinalAssignment/MTMCFinalAssignment/Content/Images/startScreen.png</File>
+    <File>C:/dev/MTMCFinalAssignment/MTMCFinalAssignment/MTMCFinalAssignment/Content/Images/howToPlay.png</File>
+    <File>C:/dev/MTMCFinalAssignment/MTMCFinalAssignment/MTMCFinalAssignment/Content/Images/NinjaStar.png</File>
+    <File>C:/dev/MTMCFinalAssignment/MTMCFinalAssignment/MTMCFinalAssignment/Content/Images/mariobg1.png</File>
+    <File>C:/dev/MTMCFinalAssignment/MTMCFinalAssignment/MTMCFinalAssignment/Content/Fonts/healthFont.spritefont</File>
+    <File>C:/dev/MTMCFinalAssignment/MTMCFinalAssignment/MTMCFinalAssignment/Content/Images/marioplatform.png</File>
+    <File>C:/dev/MTMCFinalAssignment/MTMCFinalAssignment/MTMCFinalAssignment/Content/Fonts/nameFont.spritefont</File>
+    <File>C:/dev/MTMCFinalAssignment/MTMCFinalAssignment/MTMCFinalAssignment/Content/Images/healthbarbg.png</File>
+    <File>C:/dev/MTMCFinalAssignment/MTMCFinalAssignment/MTMCFinalAssignment/Content/Images/healthbar.png</File>
+    <File>C:/dev/MTMCFinalAssignment/MTMCFinalAssignment/MTMCFinalAssignment/Content/Images/healthbarbg2.png</File>
+    <File>C:/dev/MTMCFinalAssignment/MTMCFinalAssignment/MTMCFinalAssignment/Content/Images/bloodydeath4.png</File>
+    <File>C:/dev/MTMCFinalAssignment/MTMCFinalAssignment/MTMCFinalAssignment/Content/Fonts/countFont.spritefont</File>
+    <File>C:/dev/MTMCFinalAssignment/MTMCFinalAssignment/MTMCFinalAssignment/Content/Images/buildingbg.jpg</File>
+    <File>C:/dev/MTMCFinalAssignment/MTMCFinalAssignment/MTMCFinalAssignment/Content/Images/building.png</File>
+    <File>C:/dev/MTMCFinalAssignment/MTMCFinalAssignment/MTMCFinalAssignment/Content/Images/aboutScreen.png</File>
+    <File>C:/dev/MTMCFinalAssignment/MTMCFinalAssignment/MTMCFinalAssignment/Content/Images/BatmanLife.png</File>
+    <File>C:/dev/MTMCFinalAssignment/MTMCFinalAssignment/MTMCFinalAssignment/Content/Images/MargoLife.png</File>
+    <File>C:/dev/MTMCFinalAssignment/MTMCFinalAssignment/MTMCFinalAssignment/Content/Images/MattLife.png</File>
+    <File>C:/dev/MTMCFinalAssignment/MTMCFinalAssignment/MTMCFinalAssignment/Content/Images/PlayerSpriteSheetMargo.png</File>
+    <File>C:/dev/MTMCFinalAssignment/MTMCFinalAssignment/MTMCFinalAssignment/Content/Images/PlayerSpriteSheetMatt.png</File>
+    <File>C:/dev/MTMCFinalAssignment/MTMCFinalAssignment/MTMCFinalAssignment/Content/Images/PlayerSpriteSheetSabbir.png</File>
+    <File>C:/dev/MTMCFinalAssignment/MTMCFinalAssignment/MTMCFinalAssignment/Content/Images/SabbirLife.png</File>
+    <File>C:/dev/MTMCFinalAssignment/MTMCFinalAssignment/MTMCFinalAssignment/Content/Music/action.mp3</File>
+    <File>C:/dev/MTMCFinalAssignment/MTMCFinalAssignment/MTMCFinalAssignment/Content/Music/main.mp3</File>
+    <File>C:/dev/MTMCFinalAssignment/MTMCFinalAssignment/MTMCFinalAssignment/Content/Sounds/swoosh.wav</File>
+    <File>C:/dev/MTMCFinalAssignment/MTMCFinalAssignment/MTMCFinalAssignment/Content/Sounds/dead.wav</File>
+    <File>C:/dev/MTMCFinalAssignment/MTMCFinalAssignment/MTMCFinalAssignment/Content/Sounds/click.wav</File>
+    <File>C:/dev/MTMCFinalAssignment/MTMCFinalAssignment/MTMCFinalAssignment/Content/Sounds/grunt.wav</File>
+    <File>C:/dev/MTMCFinalAssignment/MTMCFinalAssignment/MTMCFinalAssignment/Content/Images/playerSpriteSheetBatman.png</File>
+    <File>C:/dev/MTMCFinalAssignment/MTMCFinalAssignment/MTMCFinalAssignment/Content/Images/help.png</File>
+  </SourceFiles>
+</SourceFileCollection>

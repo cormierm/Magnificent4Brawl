@@ -1,0 +1,452 @@
+D:\MTMCFinalAssignment\MTMCFinalAssignment\obj\x86\Debug\MTMCFinalAssignment.csprojResolveAssemblyReference.cache
+D:\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\MTMCFinalAssignment.exe
+D:\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\MTMCFinalAssignment.pdb
+D:\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\MonoGame.Framework.dll
+D:\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+D:\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.dll
+D:\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+D:\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+D:\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+D:\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+D:\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.XInput.dll
+D:\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+D:\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+D:\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\MonoGame.Framework.xml
+D:\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+D:\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.xml
+D:\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+D:\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+D:\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+D:\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+D:\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.XInput.xml
+D:\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+D:\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+D:\MTMCFinalAssignment\MTMCFinalAssignment\obj\x86\Debug\MTMCFinalAssignment.exe
+D:\MTMCFinalAssignment\MTMCFinalAssignment\obj\x86\Debug\MTMCFinalAssignment.pdb
+D:\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Fonts\hilightFont.xnb
+D:\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Fonts\regularFont.xnb
+E:\MTMCFinalAssignment\MTMCFinalAssignment\obj\x86\Debug\MTMCFinalAssignment.csprojResolveAssemblyReference.cache
+E:\MTMCFinalAssignment\MTMCFinalAssignment\obj\x86\Debug\MTMCFinalAssignment.exe
+E:\MTMCFinalAssignment\MTMCFinalAssignment\obj\x86\Debug\MTMCFinalAssignment.pdb
+E:\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Fonts\hilightFont.xnb
+E:\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Fonts\regularFont.xnb
+E:\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\MTMCFinalAssignment.exe
+E:\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\MTMCFinalAssignment.pdb
+E:\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\MonoGame.Framework.dll
+E:\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+E:\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.dll
+E:\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+E:\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+E:\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+E:\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+E:\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.XInput.dll
+E:\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+E:\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+E:\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\MonoGame.Framework.xml
+E:\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+E:\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.xml
+E:\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+E:\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+E:\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+E:\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+E:\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.XInput.xml
+E:\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+E:\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+E:\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Images\metalplat.xnb
+E:\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Images\ninja.xnb
+E:\MTMCFinalAssignment - Copy\MTMCFinalAssignment\obj\x86\Debug\MTMCFinalAssignment.exe
+E:\MTMCFinalAssignment - Copy\MTMCFinalAssignment\obj\x86\Debug\MTMCFinalAssignment.pdb
+E:\MTMCFinalAssignment - Copy\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Fonts\hilightFont.xnb
+E:\MTMCFinalAssignment - Copy\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Fonts\regularFont.xnb
+E:\MTMCFinalAssignment - Copy\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Images\metalplat.xnb
+E:\MTMCFinalAssignment - Copy\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Images\ninja.xnb
+E:\MTMCFinalAssignment - Copy\MTMCFinalAssignment\bin\Windows\x86\Debug\MTMCFinalAssignment.exe
+E:\MTMCFinalAssignment - Copy\MTMCFinalAssignment\bin\Windows\x86\Debug\MTMCFinalAssignment.pdb
+E:\MTMCFinalAssignment - Copy\MTMCFinalAssignment\bin\Windows\x86\Debug\MonoGame.Framework.dll
+E:\MTMCFinalAssignment - Copy\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+E:\MTMCFinalAssignment - Copy\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.dll
+E:\MTMCFinalAssignment - Copy\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+E:\MTMCFinalAssignment - Copy\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+E:\MTMCFinalAssignment - Copy\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+E:\MTMCFinalAssignment - Copy\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+E:\MTMCFinalAssignment - Copy\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.XInput.dll
+E:\MTMCFinalAssignment - Copy\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+E:\MTMCFinalAssignment - Copy\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+E:\MTMCFinalAssignment - Copy\MTMCFinalAssignment\bin\Windows\x86\Debug\MonoGame.Framework.xml
+E:\MTMCFinalAssignment - Copy\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+E:\MTMCFinalAssignment - Copy\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.xml
+E:\MTMCFinalAssignment - Copy\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+E:\MTMCFinalAssignment - Copy\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+E:\MTMCFinalAssignment - Copy\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+E:\MTMCFinalAssignment - Copy\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+E:\MTMCFinalAssignment - Copy\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.XInput.xml
+E:\MTMCFinalAssignment - Copy\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+E:\MTMCFinalAssignment - Copy\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+E:\MTMCFinalAssignment - Copy\MTMCFinalAssignment\obj\x86\Debug\MTMCFinalAssignment.csprojResolveAssemblyReference.cache
+E:\MTMCFinalAssignment - Copy\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Images\howToPlay.xnb
+E:\MTMCFinalAssignment - Copy\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Images\highscore.xnb
+E:\MTMCFinalAssignment - Copy\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Images\about.xnb
+E:\MTMCFinalAssignment - Copy\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Images\startScreen.xnb
+E:\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Images\about.xnb
+E:\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Images\highscore.xnb
+E:\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Images\howToPlay.xnb
+E:\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Images\startScreen.xnb
+E:\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Images\NinjaStar.xnb
+D:\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Images\about.xnb
+D:\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Images\adam.xnb
+D:\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Images\highscore.xnb
+D:\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Images\howToPlay.xnb
+D:\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Images\metalplat.xnb
+D:\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Images\ninja.xnb
+D:\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Images\NinjaStar.xnb
+D:\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Images\startScreen.xnb
+E:\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Images\adam.xnb
+C:\dev\MTMCFinalAssignment\MTMCFinalAssignment\obj\x86\Debug\MTMCFinalAssignment.csprojResolveAssemblyReference.cache
+C:\dev\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Fonts\hilightFont.xnb
+C:\dev\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Fonts\regularFont.xnb
+C:\dev\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Images\howToPlay.xnb
+C:\dev\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Images\mariobg1.xnb
+C:\dev\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Images\NinjaStar.xnb
+C:\dev\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Images\startScreen.xnb
+C:\dev\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\dev\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\dev\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.dll
+C:\dev\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\dev\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\dev\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\dev\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\dev\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\dev\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+C:\dev\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\dev\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\dev\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\dev\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.xml
+C:\dev\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\dev\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\dev\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\dev\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\dev\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\dev\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+C:\dev\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\dev\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Fonts\healthFont.xnb
+C:\dev\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Images\marioplatform.xnb
+G:\MTMCFinalAssignment\MTMCFinalAssignment\obj\x86\Debug\MTMCFinalAssignment.exe
+G:\MTMCFinalAssignment\MTMCFinalAssignment\obj\x86\Debug\MTMCFinalAssignment.pdb
+G:\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Fonts\healthFont.xnb
+G:\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Fonts\hilightFont.xnb
+G:\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Fonts\regularFont.xnb
+G:\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Images\about.xnb
+G:\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Images\highscore.xnb
+G:\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Images\howToPlay.xnb
+G:\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Images\mariobg1.xnb
+G:\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Images\marioplatform.xnb
+G:\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Images\ninja.xnb
+G:\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Images\NinjaStar.xnb
+G:\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Images\startScreen.xnb
+G:\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\MTMCFinalAssignment.exe
+G:\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\MTMCFinalAssignment.pdb
+G:\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\MonoGame.Framework.dll
+G:\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+G:\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.dll
+G:\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+G:\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+G:\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+G:\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+G:\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.XInput.dll
+G:\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+G:\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+G:\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\MonoGame.Framework.xml
+G:\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+G:\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.xml
+G:\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+G:\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+G:\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+G:\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+G:\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.XInput.xml
+G:\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+G:\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+G:\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Images\PlayerSpriteSheetMargo.xnb
+G:\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Images\PlayerSpriteSheetMatt.xnb
+C:\dev\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Images\PlayerSpriteSheetMargo.xnb
+C:\dev\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Images\PlayerSpriteSheetMatt.xnb
+C:\dev\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Fonts\nameFont.xnb
+C:\dev\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Images\healthbar.xnb
+C:\dev\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Images\healthbarbg.xnb
+C:\dev\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Images\healthbarbg2.xnb
+G:\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Fonts\nameFont.xnb
+G:\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Images\healthbar.xnb
+G:\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Images\healthbarbg.xnb
+G:\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Images\healthbarbg2.xnb
+G:\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Images\bloodydeath2.xnb
+G:\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Images\bloodydeath3.xnb
+G:\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Images\bloodydeath4.xnb
+G:\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Fonts\countFont.xnb
+G:\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Images\MargoHead.xnb
+G:\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Images\MattHead.xnb
+G:\MTMCFinalAssignment\MTMCFinalAssignment\obj\x86\Debug\MTMCFinalAssignment.csprojResolveAssemblyReference.cache
+G:\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Images\building.xnb
+G:\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Images\buildingbg.xnb
+E:\December8\20161208MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\obj\x86\Debug\MTMCFinalAssignment.exe
+E:\December8\20161208MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\obj\x86\Debug\MTMCFinalAssignment.pdb
+E:\December8\20161208MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Fonts\countFont.xnb
+E:\December8\20161208MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Fonts\healthFont.xnb
+E:\December8\20161208MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Fonts\hilightFont.xnb
+E:\December8\20161208MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Fonts\nameFont.xnb
+E:\December8\20161208MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Fonts\regularFont.xnb
+E:\December8\20161208MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Images\about.xnb
+E:\December8\20161208MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Images\aboutScreen.xnb
+E:\December8\20161208MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Images\BatmanLife.xnb
+E:\December8\20161208MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Images\bloodydeath2.xnb
+E:\December8\20161208MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Images\bloodydeath3.xnb
+E:\December8\20161208MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Images\bloodydeath4.xnb
+E:\December8\20161208MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Images\building.xnb
+E:\December8\20161208MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Images\buildingbg.xnb
+E:\December8\20161208MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Images\healthbar.xnb
+E:\December8\20161208MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Images\healthbarbg.xnb
+E:\December8\20161208MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Images\healthbarbg2.xnb
+E:\December8\20161208MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Images\highscore.xnb
+E:\December8\20161208MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Images\howToPlay.xnb
+E:\December8\20161208MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Images\MargoHead.xnb
+E:\December8\20161208MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Images\MargoLife.xnb
+E:\December8\20161208MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Images\mariobg1.xnb
+E:\December8\20161208MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Images\marioplatform.xnb
+E:\December8\20161208MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Images\MattHead.xnb
+E:\December8\20161208MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Images\MattLife.xnb
+E:\December8\20161208MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Images\ninja.xnb
+E:\December8\20161208MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Images\NinjaStar.xnb
+E:\December8\20161208MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Images\PlayerSpriteSheetBatman.xnb
+E:\December8\20161208MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Images\PlayerSpriteSheetMargo.xnb
+E:\December8\20161208MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Images\PlayerSpriteSheetMatt.xnb
+E:\December8\20161208MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Images\PlayerSpriteSheetSabbir.xnb
+E:\December8\20161208MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Images\SabbirLife.xnb
+E:\December8\20161208MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Images\startScreen.xnb
+E:\December8\20161208MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\MTMCFinalAssignment.exe
+E:\December8\20161208MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\MTMCFinalAssignment.pdb
+E:\December8\20161208MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\MonoGame.Framework.dll
+E:\December8\20161208MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+E:\December8\20161208MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.dll
+E:\December8\20161208MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+E:\December8\20161208MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+E:\December8\20161208MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+E:\December8\20161208MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+E:\December8\20161208MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.XInput.dll
+E:\December8\20161208MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+E:\December8\20161208MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+E:\December8\20161208MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\MonoGame.Framework.xml
+E:\December8\20161208MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+E:\December8\20161208MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.xml
+E:\December8\20161208MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+E:\December8\20161208MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+E:\December8\20161208MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+E:\December8\20161208MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+E:\December8\20161208MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.XInput.xml
+E:\December8\20161208MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+E:\December8\20161208MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+E:\December8\20161208MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\obj\x86\Debug\MTMCFinalAssignment.csprojResolveAssemblyReference.cache
+D:\December8\20161208MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Images\about.xnb
+D:\December8\20161208MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Images\MargoHead.xnb
+D:\December8\20161208MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Images\MattHead.xnb
+D:\December8\20161208MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Images\ninja.xnb
+D:\December8\20161208MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Fonts\countFont.xnb
+D:\December8\20161208MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Fonts\healthFont.xnb
+D:\December8\20161208MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Fonts\hilightFont.xnb
+D:\December8\20161208MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Fonts\nameFont.xnb
+D:\December8\20161208MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Fonts\regularFont.xnb
+D:\December8\20161208MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Images\aboutScreen.xnb
+D:\December8\20161208MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Images\BatmanLife.xnb
+D:\December8\20161208MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Images\bloodydeath4.xnb
+D:\December8\20161208MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Images\building.xnb
+D:\December8\20161208MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Images\buildingbg.xnb
+D:\December8\20161208MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Images\healthbar.xnb
+D:\December8\20161208MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Images\healthbarbg.xnb
+D:\December8\20161208MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Images\healthbarbg2.xnb
+D:\December8\20161208MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Images\howToPlay.xnb
+D:\December8\20161208MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Images\MargoLife.xnb
+D:\December8\20161208MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Images\mariobg1.xnb
+D:\December8\20161208MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Images\marioplatform.xnb
+D:\December8\20161208MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Images\MattLife.xnb
+D:\December8\20161208MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Images\NinjaStar.xnb
+D:\December8\20161208MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Images\PlayerSpriteSheetBatman.xnb
+D:\December8\20161208MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Images\PlayerSpriteSheetMargo.xnb
+D:\December8\20161208MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Images\PlayerSpriteSheetMatt.xnb
+D:\December8\20161208MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Images\PlayerSpriteSheetSabbir.xnb
+D:\December8\20161208MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Images\SabbirLife.xnb
+D:\December8\20161208MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Images\startScreen.xnb
+D:\December8\20161208MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\MonoGame.Framework.dll
+D:\December8\20161208MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+D:\December8\20161208MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.dll
+D:\December8\20161208MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+D:\December8\20161208MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+D:\December8\20161208MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+D:\December8\20161208MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+D:\December8\20161208MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.XInput.dll
+D:\December8\20161208MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+D:\December8\20161208MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+D:\December8\20161208MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\MonoGame.Framework.xml
+D:\December8\20161208MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+D:\December8\20161208MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.xml
+D:\December8\20161208MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+D:\December8\20161208MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+D:\December8\20161208MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+D:\December8\20161208MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+D:\December8\20161208MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.XInput.xml
+D:\December8\20161208MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+D:\December8\20161208MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+D:\December8\20161208MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\obj\x86\Debug\MTMCFinalAssignment.csprojResolveAssemblyReference.cache
+D:\December8\20161208MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Music\action.wma
+D:\December8\20161208MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Music\action.xnb
+D:\December8\20161208MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Music\main.wma
+D:\December8\20161208MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Music\main.xnb
+D:\December8\20161208MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Sounds\click.xnb
+D:\December8\20161208MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Sounds\swoosh.xnb
+D:\December8\20161208MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Sounds\dead.xnb
+D:\December8\20161208MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Magnificent 4 Brawl.exe
+D:\December8\20161208MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Magnificent 4 Brawl.pdb
+D:\December8\20161208MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\obj\x86\Debug\Magnificent 4 Brawl.exe
+D:\December8\20161208MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\obj\x86\Debug\Magnificent 4 Brawl.pdb
+D:\December8\20161208MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Sounds\grunt.xnb
+C:\dev\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Fonts\countFont.xnb
+C:\dev\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Images\aboutScreen.xnb
+C:\dev\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Images\BatmanLife.xnb
+C:\dev\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Images\bloodydeath4.xnb
+C:\dev\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Images\building.xnb
+C:\dev\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Images\buildingbg.xnb
+C:\dev\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Images\MargoLife.xnb
+C:\dev\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Images\MattLife.xnb
+C:\dev\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Images\playerSpriteSheetBatman.xnb
+C:\dev\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Images\PlayerSpriteSheetSabbir.xnb
+C:\dev\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Images\SabbirLife.xnb
+C:\dev\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Music\action.wma
+C:\dev\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Music\action.xnb
+C:\dev\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Music\main.wma
+C:\dev\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Music\main.xnb
+C:\dev\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Sounds\click.xnb
+C:\dev\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Sounds\dead.xnb
+C:\dev\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Sounds\grunt.xnb
+C:\dev\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Sounds\swoosh.xnb
+C:\dev\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Magnificent 4 Brawl.exe
+C:\dev\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Magnificent 4 Brawl.pdb
+C:\dev\MTMCFinalAssignment\MTMCFinalAssignment\obj\x86\Debug\Magnificent 4 Brawl.exe
+C:\dev\MTMCFinalAssignment\MTMCFinalAssignment\obj\x86\Debug\Magnificent 4 Brawl.pdb
+D:\MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\obj\x86\Debug\Magnificent 4 Brawl.exe
+D:\MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\obj\x86\Debug\Magnificent 4 Brawl.pdb
+D:\MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Fonts\countFont.xnb
+D:\MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Fonts\healthFont.xnb
+D:\MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Fonts\hilightFont.xnb
+D:\MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Fonts\nameFont.xnb
+D:\MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Fonts\regularFont.xnb
+D:\MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Images\aboutScreen.xnb
+D:\MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Images\BatmanLife.xnb
+D:\MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Images\bloodydeath4.xnb
+D:\MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Images\building.xnb
+D:\MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Images\buildingbg.xnb
+D:\MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Images\healthbar.xnb
+D:\MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Images\healthbarbg.xnb
+D:\MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Images\healthbarbg2.xnb
+D:\MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Images\help.xnb
+D:\MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Images\howToPlay.xnb
+D:\MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Images\MargoLife.xnb
+D:\MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Images\mariobg1.xnb
+D:\MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Images\marioplatform.xnb
+D:\MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Images\MattLife.xnb
+D:\MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Images\NinjaStar.xnb
+D:\MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Images\playerSpriteSheetBatman.xnb
+D:\MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Images\PlayerSpriteSheetMargo.xnb
+D:\MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Images\PlayerSpriteSheetMatt.xnb
+D:\MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Images\PlayerSpriteSheetSabbir.xnb
+D:\MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Images\SabbirLife.xnb
+D:\MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Images\startScreen.xnb
+D:\MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Music\action.wma
+D:\MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Music\action.xnb
+D:\MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Music\main.wma
+D:\MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Music\main.xnb
+D:\MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Sounds\click.xnb
+D:\MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Sounds\dead.xnb
+D:\MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Sounds\grunt.xnb
+D:\MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Sounds\swoosh.xnb
+D:\MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Magnificent 4 Brawl.exe
+D:\MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Magnificent 4 Brawl.pdb
+D:\MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\MonoGame.Framework.dll
+D:\MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+D:\MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.dll
+D:\MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+D:\MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+D:\MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+D:\MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+D:\MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.XInput.dll
+D:\MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+D:\MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+D:\MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\MonoGame.Framework.xml
+D:\MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+D:\MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.xml
+D:\MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+D:\MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+D:\MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+D:\MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+D:\MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.XInput.xml
+D:\MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+D:\MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+D:\MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\obj\x86\Debug\MTMCFinalAssignment.csprojResolveAssemblyReference.cache
+C:\dev\MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\obj\x86\Debug\Magnificent 4 Brawl.exe
+C:\dev\MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\obj\x86\Debug\Magnificent 4 Brawl.pdb
+C:\dev\MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Fonts\countFont.xnb
+C:\dev\MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Fonts\healthFont.xnb
+C:\dev\MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Fonts\hilightFont.xnb
+C:\dev\MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Fonts\nameFont.xnb
+C:\dev\MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Fonts\regularFont.xnb
+C:\dev\MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Images\aboutScreen.xnb
+C:\dev\MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Images\BatmanLife.xnb
+C:\dev\MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Images\bloodydeath4.xnb
+C:\dev\MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Images\building.xnb
+C:\dev\MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Images\buildingbg.xnb
+C:\dev\MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Images\healthbar.xnb
+C:\dev\MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Images\healthbarbg.xnb
+C:\dev\MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Images\healthbarbg2.xnb
+C:\dev\MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Images\help.xnb
+C:\dev\MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Images\howToPlay.xnb
+C:\dev\MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Images\MargoLife.xnb
+C:\dev\MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Images\mariobg1.xnb
+C:\dev\MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Images\marioplatform.xnb
+C:\dev\MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Images\MattLife.xnb
+C:\dev\MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Images\NinjaStar.xnb
+C:\dev\MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Images\playerSpriteSheetBatman.xnb
+C:\dev\MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Images\PlayerSpriteSheetMargo.xnb
+C:\dev\MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Images\PlayerSpriteSheetMatt.xnb
+C:\dev\MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Images\PlayerSpriteSheetSabbir.xnb
+C:\dev\MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Images\SabbirLife.xnb
+C:\dev\MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Images\startScreen.xnb
+C:\dev\MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Music\action.wma
+C:\dev\MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Music\action.xnb
+C:\dev\MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Music\main.wma
+C:\dev\MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Music\main.xnb
+C:\dev\MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Sounds\click.xnb
+C:\dev\MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Sounds\dead.xnb
+C:\dev\MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Sounds\grunt.xnb
+C:\dev\MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Content\Sounds\swoosh.xnb
+C:\dev\MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Magnificent 4 Brawl.exe.manifest
+C:\dev\MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Magnificent 4 Brawl.application
+C:\dev\MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Magnificent 4 Brawl.exe
+C:\dev\MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\Magnificent 4 Brawl.pdb
+C:\dev\MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\dev\MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\dev\MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.dll
+C:\dev\MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\dev\MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\dev\MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\dev\MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\dev\MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\dev\MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+C:\dev\MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\dev\MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\dev\MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\dev\MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.xml
+C:\dev\MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\dev\MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\dev\MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\dev\MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\dev\MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\dev\MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+C:\dev\MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\dev\MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\obj\x86\Debug\MTMCFinalAssignment.csprojResolveAssemblyReference.cache
+C:\dev\MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\obj\x86\Debug\Magnificent 4 Brawl.exe.manifest
+C:\dev\MTMCFinalAssignment\MTMCFinalAssignment\MTMCFinalAssignment\obj\x86\Debug\Magnificent 4 Brawl.application
